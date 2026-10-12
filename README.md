@@ -43,4 +43,4 @@ States Covered: Rajasthan (1317), Telangana (983), Delhi (882), Gujarat (863), G
 3. Charts auto-update dynamically
 
 ## 👨‍💻 Created By
-[Tuza Nav Tak] | Data Analyst
+Radhika | Data Analyst
